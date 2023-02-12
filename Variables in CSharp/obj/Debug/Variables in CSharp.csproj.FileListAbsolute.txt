@@ -1,0 +1,8 @@
+C:\Users\Meris\Desktop\Programming\Variables in CSharp\bin\Debug\Variables in CSharp.exe.config
+C:\Users\Meris\Desktop\Programming\Variables in CSharp\bin\Debug\Variables in CSharp.exe
+C:\Users\Meris\Desktop\Programming\Variables in CSharp\bin\Debug\Variables in CSharp.pdb
+C:\Users\Meris\Desktop\Programming\Variables in CSharp\obj\Debug\Variables in CSharp.csproj.AssemblyReference.cache
+C:\Users\Meris\Desktop\Programming\Variables in CSharp\obj\Debug\Variables in CSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Meris\Desktop\Programming\Variables in CSharp\obj\Debug\Variables in CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Meris\Desktop\Programming\Variables in CSharp\obj\Debug\Variables in CSharp.exe
+C:\Users\Meris\Desktop\Programming\Variables in CSharp\obj\Debug\Variables in CSharp.pdb
